@@ -1,4 +1,4 @@
-# My-portfolio-website
+# My portfolio website
 Portfolio websites with links and such using basic html and css and js
 Built with astro and [Omg.lol demo page](https://github.com/Totallynotmwa/omg.lol-live-demo) and hosted by vercel.
 # How to deploy website?
