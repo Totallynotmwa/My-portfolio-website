@@ -1,4 +1,4 @@
-![genocidedidntstartocotber7th](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/banner-support.svg)(https://arab.org/click-to-help/palestine/)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner)
 # My portfolio website
 Portfolio websites with links and such using basic html and css and js
 Built with astro and [Omg.lol demo page](https://github.com/Totallynotmwa/omg.lol-live-demo) and hosted by vercel.
