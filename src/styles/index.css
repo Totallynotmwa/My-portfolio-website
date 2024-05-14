@@ -73,8 +73,8 @@ h1 {
 #pronouns {
 	margin: 0 0 1em 0;
 	color: #666;
+	list-style-type: none;
 }
-
 #pronouns a:link,
 #pronouns a:visited,
 #pronouns a:hover,
