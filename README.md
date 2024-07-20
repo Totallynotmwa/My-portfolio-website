@@ -1,6 +1,6 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](arab.org/click-to-help/palestine/)
-My portfolio website
-# Codeburg fork: https://codeberg.org/totallynotmwa/My-Portfolio-website/
+# My portfolio website
+ Codeburg fork: https://codeberg.org/totallynotmwa/My-Portfolio-website/
  with links and such using basic html and css and js
 > [!NOTE]  
 > Due to unfriending my friend and taking away my domain this website + anything connected to it has migrated to is-a.dev subdomain 
