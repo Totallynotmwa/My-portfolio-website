@@ -5,5 +5,5 @@
 > [!NOTE]  
 > Due to unfriending my friend and taking away my domain this website + anything connected to it has migrated to is-a.dev subdomain 
 
-Built with astro and [Omg.lol demo page](https://github.com/Totallynotmwa/omg.lol-live-demo) and hosted by github.pages.
+Built with astro(Now regular html) and [Omg.lol demo page](https://github.com/Totallynotmwa/omg.lol-live-demo)(Now based on https://github.com/Yunexiz/Yunexiz) and hosted by github.pages.
 The blog  source can be found [Here](https://github.com/Totallynotmwa/blog)
