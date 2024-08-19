@@ -77,13 +77,27 @@
       transform: scale(0.9); 
       border: none; 
     }
+    .bot-button {
+      border-radius: 5px;
+      background-color: #ffffff; 
+      color: rgb(0, 0, 0);
+      border: none;
+      padding: 10px 20px; 
+      text-align: center; 
+      text-decoration: none; 
+      display: inline-block; 
+      font-size: 16px; 
+      margin: 4px 2px; 
+      cursor: pointer; 
+    }
+
 </style>
 </head>
 <body>
   <div class="info-box">
     <img src="/Some images/playstation.svg" alt="Playstaion icon" class="profile-img"><br>
     <div>
-      <span style="font-size: 30px;">Dark234friends</span><br>
+      <span id="playstation-id" style="font-size: 30px;">Dark234friends</span><br> <button class="bot-button" onclick="copyToClipboard('playstation-id')">Copy psn user</button>
       <p style="font-size: 15px;">Click <a href="./">here</a> to go back</p>
       <p>Since there are no profile pages on Psn you were redirected to this page. <br> <br></p>
     </div>
@@ -91,5 +105,15 @@
 </div>
 
   </div>
+  <script>
+    function copyToClipboard(id) {
+        var copyText = document.getElementById(id).textContent;
+        navigator.clipboard.writeText(copyText).then(function() {
+            alert('Copied username: ' + copyText);
+        }, function(err) {
+            alert('Failed to copy text Please report this to mwa: ' + err);
+        });
+    }
+</script>
 </body>
 </html>
