@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "astro": "^4.8.2",
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0"
+  },
+  "dependencies": {
+    "@astrojs/vercel": "^7.6.0",
+    "@vercel/analytics": "^1.2.2",
+    "@vercel/speed-insights": "^1.0.10"
+  }
+}
