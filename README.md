@@ -7,10 +7,10 @@
 <br>
 Built with 
 -Html(ofc)
-- Astro (Perivous website astro is just annoying)
-- [Yunexiz portfolio website as a base](https://github.com/Yunexiz/Yunexiz) 
-- Embedded tockify calaender
-- [Esb.localplayer.dev source code for copy psn button](https://github.com/EducatedSuddenBucket/esb.localplayer.dev)
+-Astro (Perivous website astro is just annoying)
+-[Yunexiz portfolio website as a base](https://github.com/Yunexiz/Yunexiz) 
+-Embedded tockify calaender
+-[Esb.localplayer.dev source code for copy psn button](https://github.com/EducatedSuddenBucket/esb.localplayer.dev)
 <br>
 Hosted on 
 -Github.pages
