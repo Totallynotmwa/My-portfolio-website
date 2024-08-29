@@ -9,6 +9,6 @@ Built with astro(Now regular html) and [Omg.lol demo page](https://github.com/To
 The blog  source can be found [Here](https://github.com/Totallynotmwa/blog)
 
 
-Licenses- 
+Licenses- <br>
 Apache 2.0 - current website <br>
 Mit - Previous websites in src and pages
