@@ -7,3 +7,8 @@
 
 Built with astro(Now regular html) and [Omg.lol demo page](https://github.com/Totallynotmwa/omg.lol-live-demo)(Now based on https://github.com/Yunexiz/Yunexiz) and hosted by github.pages.
 The blog  source can be found [Here](https://github.com/Totallynotmwa/blog)
+
+
+Licenses- 
+Apache 2.0 - current website
+Mit - Previous websites in src and pages
