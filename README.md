@@ -5,9 +5,8 @@ with links and such using basic html and css and js and uses tokoifys calaender
 > Due to unfriending my friend and taking away my domain this website + anything connected to it has migrated to is-a.dev subdomain 
 
 Built with 
-- Html(ofc)
-- Astro (Perivous website astro is just annoying)
-- [Yunexiz portfolio website as a base](https://github.com/Yunexiz/Yunexiz)
+- Html,Css,Light js (ofc and see below what js projects i used )
+- [Yunexiz portfolio website as a base](https://github.com/Yunexiz/yunexiz.github.io)
 - Embedded tockify calaender
 - [Esb.localplayer.dev source code for copy psn button](https://github.com/EducatedSuddenBucket/esb.localplayer.dev)
 
