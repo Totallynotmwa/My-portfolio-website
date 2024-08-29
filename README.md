@@ -10,5 +10,5 @@ The blog  source can be found [Here](https://github.com/Totallynotmwa/blog)
 
 
 Licenses- 
-Apache 2.0 - current website
+Apache 2.0 - current website <br>
 Mit - Previous websites in src and pages
