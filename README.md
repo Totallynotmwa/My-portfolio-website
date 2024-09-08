@@ -2,7 +2,7 @@
 # My portfolio website (You can also find this project on [Codeburg](https://codeberg.org/totallynotmwa/My-Portfolio-website)
 with links and such using basic html and css and js and uses tokoifys calaender
 > [!NOTE]  
-> Due to unfriending my friend and taking away my domain this website + anything connected to it has migrated to is-a.dev subdomain 
+> This repo will be archived as i decided to migrate it to codeburg  
 
 Built with 
 - Html,Css,Light js (ofc and see below what js projects i used )
